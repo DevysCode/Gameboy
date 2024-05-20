@@ -1,0 +1,12 @@
+body{
+  background-color: #121212;
+}
+h1{
+  color: rgb(221, 220, 220)
+}
+#outercasing{
+  border:  5px solid purple;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+}
